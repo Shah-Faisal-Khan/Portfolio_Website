@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio_Website/static/css/main.9bda8205.css",
-    "main.js": "/Portfolio_Website/static/js/main.ab49e8b7.js",
+    "main.css": "/Portfolio_Website/static/css/main.2c209fa3.css",
+    "main.js": "/Portfolio_Website/static/js/main.deeac10f.js",
     "static/js/453.195b869a.chunk.js": "/Portfolio_Website/static/js/453.195b869a.chunk.js",
     "static/media/JSN_6737.JPG": "/Portfolio_Website/static/media/JSN_6737.ac8aed05958f1d2d21e5.JPG",
     "static/media/Shah_Faisal_Certificate_page-0001.jpg": "/Portfolio_Website/static/media/Shah_Faisal_Certificate_page-0001.875d1f82ad7e8fa5171c.jpg",
@@ -11,14 +11,13 @@
     "static/media/WhatsApp Image 2024-08-07 at 11.34.57 (2).jpeg": "/Portfolio_Website/static/media/WhatsApp Image 2024-08-07 at 11.34.57 (2).296059f00ea70fefd4e0.jpeg",
     "static/media/profileimg.jpeg": "/Portfolio_Website/static/media/profileimg.417fdfc0eee1c5c81021.jpeg",
     "static/media/Screenshot_2024-07-18_000141-removebg-preview.png": "/Portfolio_Website/static/media/Screenshot_2024-07-18_000141-removebg-preview.dcc7062006222f53c65f.png",
-    "static/media/logo.svg": "/Portfolio_Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Portfolio_Website/index.html",
-    "main.9bda8205.css.map": "/Portfolio_Website/static/css/main.9bda8205.css.map",
-    "main.ab49e8b7.js.map": "/Portfolio_Website/static/js/main.ab49e8b7.js.map",
+    "main.2c209fa3.css.map": "/Portfolio_Website/static/css/main.2c209fa3.css.map",
+    "main.deeac10f.js.map": "/Portfolio_Website/static/js/main.deeac10f.js.map",
     "453.195b869a.chunk.js.map": "/Portfolio_Website/static/js/453.195b869a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bda8205.css",
-    "static/js/main.ab49e8b7.js"
+    "static/css/main.2c209fa3.css",
+    "static/js/main.deeac10f.js"
   ]
 }
